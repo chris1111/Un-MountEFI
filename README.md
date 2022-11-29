@@ -6,7 +6,7 @@ A macOS Status Bar apps to mount and unmount EFI partitions in macOS Ventura 13
 - Gatekeeper must be disable
 - MountEFI is based on CloverPackage MountESP script (Credit: Rehabman).
 
-Download ➤ [(Un)mount EFI Ventura Install](https://github.com/chris1111/Un-mount-EFI-Ventura/raw/main/(Un)mount%20EFI%20Ventura%20Install.zip)
+Download ➤ [(Un)mount EFI Ventura Install](https://github.com/chris1111/Un-mount-EFI-Ventura/raw/Master/(Un)mount%20EFI%20Ventura%20Install.zip)
 
 ## Install
 ![Screenshot 0](https://user-images.githubusercontent.com/6248794/183128620-9a645370-ed0b-4571-82fb-c46d91400c5e.png)
