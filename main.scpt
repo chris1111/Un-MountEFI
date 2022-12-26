@@ -1,9 +1,9 @@
 # By chris1111
 # A simple Applescript to (Un)Mount EFI on macOS Ventura 13
-# Version "1.0" (Un)Mount EFI Ventura Copyright (c) 2022, chris1111 All right reserved
+# Version "1.0" (Un)Mount EFI Copyright (c) 2022, chris1111 All right reserved
 # MountEFI is based on CloverPackage MountESP script (Credit: Rehabman).
 set theAction to button returned of (display dialog "
-Welcome (Un)Mount EFI Ventura
+Welcome (Un)Mount EFI
 Make a choice
 " with icon note buttons {"Quit", "Unmount EFI", "Mount EFI"} cancel button "Quit" default button {"Mount EFI"})
 
