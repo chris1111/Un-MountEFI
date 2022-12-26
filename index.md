@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# (Un)mount EFI
+# Un-MountEFI
 Support Disk / APFS, HFS+, NTFS  (GUID)
 
 A macOS Status Bar apps to mount and unmount EFI partitions in macOS Ventura 13
