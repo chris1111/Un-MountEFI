@@ -9,9 +9,9 @@ A macOS Status Bar apps to mount and unmount EFI partitions in macOS Ventura 13
 Download ➤ [(Un)mount EFI Ventura Install](https://github.com/chris1111/Un-mount-EFI-Ventura/raw/Master/(Un)mount%20EFI%20Ventura%20Install.zip)
 
 ## Install
-![Screenshot 0](https://user-images.githubusercontent.com/6248794/183128620-9a645370-ed0b-4571-82fb-c46d91400c5e.png)
+![Capture1](https://user-images.githubusercontent.com/6248794/209568174-bbb23aeb-d6ce-4d59-93a5-9a0108f7eb7c.png)
 ## Choice
-![Screen](https://user-images.githubusercontent.com/6248794/183132016-e476bbff-b6b6-4505-b181-95ee7b2dcfbb.gif)
+![Capture2](https://user-images.githubusercontent.com/6248794/209568292-f3c2e4ca-b18e-4ae5-8c53-585088ce97d8.png)
 ## Mount EFI Choice
 ![Screenshot 2](https://user-images.githubusercontent.com/6248794/183128624-b3fb5216-2990-4b8e-a715-c1fe5c5210e6.png)
 ## Unmount EFI Choice
