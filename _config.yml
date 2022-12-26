@@ -1,0 +1,5 @@
+title: (Un)mount EFI
+description: A macOS Status Bar apps to mount and unmount EFI partitions.
+github:
+  repository_url: https://github.com/chris1111/Un-mount-EFI
+remote_theme: chris1111/cayman-dark
